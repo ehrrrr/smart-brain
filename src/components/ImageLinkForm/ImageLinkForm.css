@@ -1,0 +1,12 @@
+.form {
+	width: 700px;
+
+	background: radial-gradient(circle at 0% 50%, rgba(96, 16, 48, 0) 9px, #9fe3f9 10px, rgba(96, 16, 48, 0) 11px) 0px
+			10px,
+		radial-gradient(at 100% 100%, rgba(96, 16, 48, 0) 9px, #9fe3f9 10px, rgba(96, 16, 48, 0) 11px), #9d51c4;
+	background-size: 20px 20px;
+}
+
+.form button {
+	background-color: #e82259;
+}
